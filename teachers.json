@@ -1,10 +1,82 @@
 [
 	{
-		"abbr": "AL",
+		"abbr": "Natural Language Processing",
 		"name": "Alabama",
 		"capital": "Montgomery",
 		"lat": "32.361538",
 		"long": "-86.279118"
-	}
+	},
+
+         {
+		"abbr": "Algorithms and Combinatorial Optimization",
+		"name": "Alabama",
+		"capital": "Montgomery",
+		"lat": "32.361538",
+		"long": "-86.279118"
+	},
+         
+        {
+		"abbr": "Hypertext databases",
+		"name": "Alabama",
+		"capital": "Montgomery",
+		"lat": "32.361538",
+		"long": "-86.279118"
+	},
+        
+        {
+		"abbr": "validation of digital systems",
+		"name": "Alabama",
+		"capital": "Montgomery",
+		"lat": "32.361538",
+		"long": "-86.279118"
+	},
+          
+         {
+		"abbr": "Virtual and Augmented Reality",
+		"name": "Alabama",
+		"capital": "Montgomery",
+		"lat": "32.361538",
+		"long": "-86.279118"
+	},
+        {
+		"abbr": "development of appropriate technology",
+		"name": "Alabama",
+		"capital": "Montgomery",
+		"lat": "32.361538",
+		"long": "-86.279118"
+	},
+        {
+		"abbr": "Machine learning applied to speech and language",
+		"name": "Alabama",
+		"capital": "Montgomery",
+		"lat": "32.361538",
+		"long": "-86.279118"
+	},
+
+        {
+		"abbr": "Cloud Computing",
+		"name": "Alabama",
+		"capital": "Montgomery",
+		"lat": "32.361538",
+		"long": "-86.279118"
+	},
+        {
+		"abbr": "Algorithms and Complexity Theory",
+		"name": "Alabama",
+		"capital": "Montgomery",
+		"lat": "32.361538",
+		"long": "-86.279118"
+	},
+        {
+		"abbr": "Information Appliances",
+		"name": "Alabama",
+		"capital": "Montgomery",
+		"lat": "32.361538",
+		"long": "-86.279118"
+	},
+
+
+
+         
  
 ]
