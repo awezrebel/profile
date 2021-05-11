@@ -1,0 +1,64 @@
+[
+	{
+		"subject": "Natural Language Processing",
+                "faculty":   "Pushpak Bhattacharya",
+                "Designation": "Professor"
+		 
+	},
+	{
+		"subject": "Algorithms and Combinatorial Optimization",
+                "faculty":   "Abhiram Ranade",
+                "Designation": "Professor"
+		 
+	},
+	{
+		"subject": "Hypertext databases",
+                "faculty":   "Soumen chakrabarti",
+                 "Designation": "Faculty member"
+                
+		 
+	},
+	{
+		"subject": "validation of digital systems",
+                "faculty":   "Supratik Chakraborty",
+                "Designation": "Professor"
+		 
+	},
+	{
+		"subject": "Virtual and Augmented Reality",
+                "faculty":   "Parag Chaudhuri",
+                "Designation": "faculty member"
+		 
+	},
+	{
+		"subject": "development of appropriate technology",
+                  "faculty":   "Kameswari Chebrolu"
+                "Designation": "Professor"
+		 
+	},
+	{
+		"subject": "Machine learning applied to speech and language",
+                  "faculty":   "Preethi Jyothi",
+                "Designation": "Assistant Professor"
+		 
+	},
+	{
+		"subject": "Cloud Computing",
+                  "faculty":   "Purushottam Kulkarni",
+                "Designation": "Professor"
+		 
+	},
+	{
+		"subject": "Algorithms and Complexity Theory",
+                 "faculty":   "Nutan Limaye",
+                "Designation": "Associate Professor"
+		 
+	},
+	{
+		"subject": "Information Appliances",
+                 "faculty":   "Bernard Menezes",
+                "Designation": "Professor"
+		 
+	}
+	 
+]
