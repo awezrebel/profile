@@ -1,42 +1,63 @@
 [
 	{
-		"abbr": "Natural Language Processing"
+		"subject": "Natural Language Processing",
+                "faculty":   "Pushpak Bhattacharya",
+                "Designation": "Professor"
 		 
 	},
 	{
-		"abbr": "Algorithms and Combinatorial Optimization"
+		"subject": "Algorithms and Combinatorial Optimization",
+                "faculty":   "Abhiram Ranade",
+                "Designation": "Professor"
 		 
 	},
 	{
-		"abbr": "Hypertext databases"
+		"subject": "Hypertext databases",
+                "faculty":   "Soumen chakrabarti",
+                 "Designation": "Faculty member"
+                
 		 
 	},
 	{
-		"abbr": "validation of digital systems"
+		"subject": "validation of digital systems",
+                "faculty":   "Supratik Chakraborty",
+                "Designation": "Professor"
 		 
 	},
 	{
-		"abbr": "Virtual and Augmented Reality"
+		"subject": "Virtual and Augmented Reality",
+                "faculty":   "Parag Chaudhuri",
+                "Designation": "faculty member"
 		 
 	},
 	{
-		"abbr": "development of appropriate technology"
+		"subject": "development of appropriate technology",
+                  "faculty":   "Kameswari Chebrolu"
+                "Designation": "Professor"
 		 
 	},
 	{
-		"abbr": "Machine learning applied to speech and language"
+		"subject": "Machine learning applied to speech and language",
+                  "faculty":   "Preethi Jyothi",
+                "Designation": "Assistant Professor"
 		 
 	},
 	{
-		"abbr": "Cloud Computing"
+		"subject": "Cloud Computing",
+                  "faculty":   "Purushottam Kulkarni",
+                "Designation": "Professor"
 		 
 	},
 	{
-		"abbr": "Algorithms and Complexity Theory"
+		"subject": "Algorithms and Complexity Theory",
+                 "faculty":   "Nutan Limaye",
+                "Designation": "Associate Professor"
 		 
 	},
 	{
-		"abbr": "Information Appliances"
+		"subject": "Information Appliances",
+                 "faculty":   "Bernard Menezes",
+                "Designation": "Professor"
 		 
 	}
 	 
