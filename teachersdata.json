@@ -59,6 +59,12 @@
                  "faculty":   "Bernard Menezes",
                 "Designation": "Professor"
 		 
+	},
+	{
+		"subject": "Theory Of Computation",
+                 "faculty":   "Rohit Gurjar",
+                "Designation": "Professor"
+		 
 	}
 	
 	
